@@ -9,7 +9,7 @@ This project demonstrates how business intelligence techniques transform raw fin
 
 This dashboard provides insights including:
 
-** Key Performance Indicators (KPIs):**
+** **Key Performance Indicators (KPIs):****
   * Total Sales
   * Total Orders
   * Total Profit
