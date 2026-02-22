@@ -1,4 +1,4 @@
-# 💰 Financial Analysis Dashboard (PowerBI)
+# 💰 Financial Analysis Dashboard
 
 A professional financial analytics dashboard developed using PowerBI, designed to deliver a clear and interactive overview of sales performance, profitability, discount strategy, regional trends, segment efficiency, and product performance.
 This project demonstrates how business intelligence techniques transform raw financial data into decision-driven insights.
